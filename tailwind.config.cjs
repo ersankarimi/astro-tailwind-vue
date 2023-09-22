@@ -2,8 +2,8 @@
 /*eslint-env node*/
 module.exports = {
   content: [
-    "./src/pages/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}",
-    "./src/components/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}",
+    "./src/pages/**/*.{astro,html,md,mdx,ts,vue}",
+    "./src/components/**/*.{astro,html,md,mdx,ts,vue}",
   ],
   theme: {
     extend: {},
