@@ -1,12 +1,14 @@
 {
-  "prettier.documentSelectors": ["**/*.astro, **/*.js, **/*.ts, **/*.vue"],
+  "prettier.documentSelectors": ["**/*.astro"],
   "[astro]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "eslint.validate": [
-    "javascript", // Enable .js
-    "astro", // Enable .astro
-    "vue", // Enable .vue
-    "typescript" // Enable .ts
+    "javascript",
+    "javascriptreact",
+    "typescriptreact",
+    "typescript",
+    "vue",
+    "astro"
   ]
 }
