@@ -1,5 +1,7 @@
 {
-  "name": "masminah-masminah-landing-page",
+  "name": "astro-vue-tailwind",
+  "description": "A simple Astro starter template with Vue and Tailwind CSS",
+  "private": true,
   "type": "module",
   "version": "0.0.1",
   "scripts": {
